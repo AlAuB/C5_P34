@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">W7_Q34</string>
+    <string name="add_new">Add New</string>
+    <string name="type_new_thing">Type new thing</string>
+    <string name="type_date_here">Type date here</string>
+    <string name="add">Add</string>
+    <string name="type_time_like_14_05">Type time like 14:05</string>
+    <string name="are_you_sure_to_delete_this">Are you sure to delete this:</string>
+    <string name="delete">DELETE</string>
+    <string name="delete_all">Delete All</string>
+    <string name="folder_icon">Folder icon</string>
+    <string name="no_data">No data</string>
+</resources>
